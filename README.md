@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, sou Vinícius Gomes</h1>
 <h3 align="center">Desenvolvedor fullstack em formação pela faculdade SENAC PE, do curso de ADS do 2º período, em busca de uma oportunidade de estágio na área de desenvolvimento de software.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciusgomes17" alt="viniciusgomes17" /></a> </p>
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-gomes-08b509281/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-gomes-08b509281/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
