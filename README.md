@@ -3,7 +3,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinicius-gomes-08b509281/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-gomes-08b509281/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/vinícius-gomes-08b509281/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinícius-gomes-08b509281/?trk=opento_sprofile_topcard" height="30" width="40" /></a>
 <a href="https://instagram.com/@vnmarquess_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vnmarquess_" height="30" width="40" /></a>
 <a href="https://discord.gg/vinicius_gomes17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vinicius_gomes17" height="30" width="40" /></a>
 </p>
