@@ -2,48 +2,36 @@
 <h3 align="center">Sou desenvolvedor fullstack em formação pela faculdade SENAC PE, do curso de ADS do 2º período, em busca de uma oportunidade de estágio na área de desenvolvimento de software.</h3>
 <h3 align="left">Conecte-se comigo:</h3>
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://www.linkedin.com/in/vinícius-gomes-08b509281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:vinigomes.3651@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://instagram.com/vnmarquess_?igsh=eG5ucHFiam94cWtt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  
+ ## Tecnologias:
 
-  <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+### Front-End:
 
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
+<p>
+  <a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" height="45"/></a>
+  <a href="https://www.w3schools.com/css/default.asp"><img src="https://img.icons8.com/fluent/512/css3.png" height="45"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.icons8.com/color/512/javascript.png" height="45"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="40"/></a>
+  <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="40"/></a>
+ 
+  
 
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+###  Back-End:
 
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-
-  <!-- TypeScript -->
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-
-  <!-- Figma -->
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+<p>
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="60"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" height="45"/></a>
+  
 </p>
+
+### Outras Ferramentas:
+
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusgomes17&show_icons=true&locale=en&layout=compact" alt="viniciusgomes17" />
@@ -52,6 +40,3 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusgomes17&show_icons=true&locale=en" alt="viniciusgomes17" />
 </p>
-
-<img src="html.svg" width="40" style="margin-right:20px;"/>
-<img src="css.svg" width="40" style="margin-right:20px;"/>
